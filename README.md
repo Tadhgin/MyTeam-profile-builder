@@ -30,3 +30,5 @@ THEN I exit the application, and the HTML is generated
 
 ## Mock-Up
 The following image shows the generated HTML’s appearance and functionality. The styling in the image is just an example, so feel free to add your own styles:
+![image](https://user-images.githubusercontent.com/117637052/216927365-f0629e20-463a-4597-94ee-d28059e0eefb.png)
+
